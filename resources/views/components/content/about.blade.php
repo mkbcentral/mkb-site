@@ -12,7 +12,7 @@
         <div class="grid md:grid-cols-2 gap-12 items-center">
             <div class="space-y-6">
                 <p class="text-blue-200 text-lg">
-                    Je suis un développeur full-stack
+                    Je suis <span class="font-bold">Ben MWILA</span>, un développeur full-stack
                     passionné possédant une expertise dans
                     les technologies modernes.
                     Avec mes 5 années d'expérience dans la création d'applications
