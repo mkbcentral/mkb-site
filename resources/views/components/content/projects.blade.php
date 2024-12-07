@@ -10,7 +10,9 @@
                         <path d="M0,0 L100,0 L100,100 Z" fill="currentColor" />
                     </svg>
                 </div>
-                <div class="h-48 bg-blue-700"></div>
+                <div class="h-48 bg-blue-700">
+                    <img class="h-48 w-full object-cover" src="{{asset('sc1.png')}}" alt="Project 1">
+                </div>
                 <div class="p-6">
                     <h3 class="text-xl font-bold text-white mb-2">Schoola</h3>
                     <p class="text-blue-200 mb-4">
@@ -22,6 +24,7 @@
                         et communiquer avec l'administration.
                     </p>
                     <div class="flex space-x-2">
+
                         <span class="px-3 py-1 bg-blue-900/50 text-blue-300 rounded-full text-sm">Laravel | Livewire | Flutter</span>
                         <span class="px-3 py-1 bg-blue-900/50 text-blue-300 rounded-full text-sm">Mysql</span>
                     </div>
@@ -35,7 +38,9 @@
                         <path d="M0,0 L100,0 L100,100 Z" fill="currentColor" />
                     </svg>
                 </div>
-                <div class="h-48 bg-blue-800"></div>
+                <div class="h-48 bg-blue-800">
+                    <img class="h-48 w-full object-cover" src="{{asset('af1.png')}}" alt="Project 1">
+                </div>
                 <div class="p-6">
                     <h3 class="text-xl font-bold text-white mb-2">AfiaSys</h3>
                     <p class="text-blue-200 mb-4">

@@ -22,7 +22,7 @@
                 <div class="grid grid-cols-2 gap-4">
                     <div class="p-4 bg-blue-900/30 rounded-lg">
                         <h3 class="text-blue-400 font-bold mb-2">Frontend</h3>
-                        <p class="text-blue-200">Flutter, React, Vue</p>
+                        <p class="text-blue-200">Flutter, React, Vue, Livewire</p>
                     </div>
                     <div class="p-4 bg-blue-900/30 rounded-lg">
                         <h3 class="text-blue-400 font-bold mb-2">Backend</h3>
@@ -35,7 +35,9 @@
                 </div>
             </div>
             <div class="flex justify-center">
-                <div class="w-64 h-64 rounded-full bg-gradient-to-r from-blue-500 to-blue-700 animate-float"></div>
+                <div class="w-64 h-64 rounded-full bg-gradient-to-r from-blue-500 to-blue-700 animate-float">
+                    <img class="w-64 h-64 rounded-full" alt="Profile" src="{{asset('prof.jpg')}}" >
+                </div>
             </div>
         </div>
     </div>

@@ -10,7 +10,7 @@
                         <div
                             class="bg-gray-800 rounded-xl overflow-hidden shadow-xl transform hover:scale-105 transition duration-300">
                             <div class="aspect-w-16 aspect-h-9">
-                                <iframe class="w-full h-full" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="Coding Tutorial"
+                                <iframe class="w-full h-full" src="https://youtu.be/IcSczr7ee98" title="Coding Tutorial"
                                         frameborder="0"
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                         allowfullscreen>
@@ -28,7 +28,7 @@
                         <div
                             class="bg-gray-800 rounded-xl overflow-hidden shadow-xl transform hover:scale-105 transition duration-300">
                             <div class="aspect-w-16 aspect-h-9">
-                                <iframe class="w-full h-full" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="Node.js Tutorial"
+                                <iframe class="w-full h-full" src="https://youtu.be/IcSczr7ee98" title="Node.js Tutorial"
                                         frameborder="0"
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                         allowfullscreen>
